@@ -197,7 +197,7 @@ The transformation reduces the strong right-skew typically observed in raw RNA-s
 
 ### Sample correlation heatmap
 
-![Correlation heatmap](figures/correlation_heatmap.png)
+![Correlation heatmap](figures/correlation_heat_map.png)
 
 Pairwise correlations between samples were computed to assess global similarity in gene expression profiles.  
 Highly correlated samples indicate consistent sequencing and preprocessing.
